@@ -10,7 +10,7 @@
       <name>Sebastian Kümpel</name>
     </owner>
     <source type="git">git://github.com/sebastku/gentoo-overlay.git</source>
-    <source type="git">http://github.com/sebastku/gentoo-overlay.git</source>
+    <source type="git">https://github.com/sebastku/gentoo-overlay.git</source>
     <feed>https://github.com/sebastku/gentoo-overlay/commits/master.atom</feed>
   </repo>
 </repositories>
