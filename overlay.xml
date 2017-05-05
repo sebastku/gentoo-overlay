@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>sebastku</name>
+    <description>Gentoo Portage Overlay of sebastku</description>
+    <homepage>http://github.com/sebastku/gentoo-overlay</homepage>
+    <owner>
+      <email>sebastku@gmx.de</email>
+      <name>Sebastian Kümpel</name>
+    </owner>
+    <source type="git">git://github.com/sebastku/gentoo-overlay.git</source>
+    <source type="git">http://github.com/sebastku/gentoo-overlay.git</source>
+    <feed>https://github.com/sebastku/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
